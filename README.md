@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepthi</h1>
-<h3 align="center">I am a third year student in Computer Science and Engineering.</h3>
+<h3 align="center">I am a final year student in Computer Science and Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepthi1810&label=Profile%20views&color=0e75b6&style=flat" alt="deepthi1810" /> </p>
 
